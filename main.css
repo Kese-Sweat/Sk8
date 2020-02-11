@@ -1,0 +1,122 @@
+body{
+    
+    background-color: burlywood;
+    margin: auto;
+    width: 1000px;
+    position: relative;
+    
+}
+
+.sk{
+
+    justify-content: center;
+}
+
+section{
+    display: flex;
+    position: relative;
+    align-self: center;
+    justify-content: center;
+}
+
+.top-boxes { 
+    display: flex;
+    height: 20px;
+    width: 170px;
+    background-color: crimson;
+    margin: 10px;
+    flex-direction: row;
+    
+}
+   
+.words{
+    display: flex;
+    align-items:  center;
+    color: white;
+    
+    
+    
+}
+    
+
+
+
+.idk{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.upper-image{
+    background-image: url(./assets/top-image.png);
+    background-size: 100%;
+    width: 500px;
+    height: 150px;
+    
+    
+    
+}
+
+.peralta{
+    height: 100px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.my-button{
+    display: flex;
+ justify-content: center;
+}
+
+.read-more{
+
+    background-color: violet;
+    height: 25px;
+    width: 25px;
+}
+
+.boxes{
+    display: flex;
+   justify-content: center;
+}
+.topics{
+    display: flex;
+    position: relative;
+    width: fit-content;
+    margin: 10px;
+    text-align: start;
+    background-color: turquoise;
+
+}
+
+.skateborders{
+    display: flex;
+
+    
+}
+
+.talent{
+    display: flex;
+    margin: 10px;
+}
+
+.one{
+
+    width: 75px;
+    
+}
+
+.two{
+
+    width: 75px;
+}

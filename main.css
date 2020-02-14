@@ -117,39 +117,62 @@ section{
 
 .one{
 
-    width: 200px;
+    width: 260px;
     
 }
 
 .two{
 
-    width: 200px;
+    width: 260px;
 }
 
 .three{
 
-    width: 150px;
+    width: 260px;
 }
 
 .four{
 
-    width: 150px;
+    width: 540px;
+    padding-right: 300px;
+    margin: 10px;
     
 }
 
 .boardbox{
 
     display: flex;
-    height: 100px;
+    height: 250px;
     justify-content: center;
 
 }
 
 .boardselection{
     display: flex;
-    width: 30px;
-    justify-content: center;
+    width: 1000px;
+    background-color: white;
+    justify-content: space-evenly;
+    
    
 
    
+}
+
+.contact-information{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+   
+}
+
+.input-boxes{
+
+    justify-content: flex-end;
+    margin: 20px;
+}
+
+.contact-list{
+
+    margin: 20px;
 }
